@@ -22,7 +22,13 @@ python OK_fsm_builder.py -h
 
 ## Contribute
 
-Please follow [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
+Apply TDD for the Python script.
+
+Generated C++ source code is based on "State" design pattern.
+
+Please follow:  
+[Python Style Guide]()
+[Google Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ## Meta
 
